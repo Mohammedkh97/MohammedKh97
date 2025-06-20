@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Khalaf Ismail</h1>
-<h3 align="center">Embedded Software Engineer | AI & Embedded Linux Enthusiast</h3>
+<h3 align="center">AI & Machine Learning | AI & Embedded Linux Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/mohammedkh97">
@@ -22,9 +22,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **FOTA & Embedded Linux Projects**
+- 🔭 Currently working on **Machine Learning Porjects: NLP, OCR, LangChain,..**
 - 🌱 Expanding my skills in **QT, GTK, FreeRTOS, and Modern C++**
-- 💬 Ask me about **Embedded Systems, Embedded Linux, Modern C++**
+- 💬 Ask me about **AI, Machine Learning, Embedded Systems, Embedded Linux, Modern C++**
 - 📫 Feel free to reach me at anytime from one of the below contacts
 - ⚡ Fun fact: *I bridge the gap between embedded systems and AI!*
 
