@@ -22,8 +22,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Machine Learning Porjects: NLP, OCR, LangChain,..**
-- 🌱 Expanding my skills in **QT, GTK, FreeRTOS, and Modern C++**
+- 🔭 Currently working on **Machine Learning Projects: NLP, OCR, LangChain,..**
+- 🌱 Expanding my skills in **Fine Tuning LLMs, AI Agents, Qt, and Modern C++**
 - 💬 Ask me about **AI, Machine Learning, Embedded Systems, Embedded Linux, Modern C++**
 - 📫 Feel free to reach me at anytime from one of the below contacts
 - ⚡ Fun fact: *I bridge the gap between embedded systems and AI!*
