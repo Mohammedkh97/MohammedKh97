@@ -72,6 +72,12 @@ Currently serving as **Head of AI & Digital Transformation**, leading enterprise
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 ### Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -108,6 +114,54 @@ Currently serving as **Head of AI & Digital Transformation**, leading enterprise
 ![Frappe](https://img.shields.io/badge/Frappe%20%2F%20ERPNext-0089FF?style=flat&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+## 🛠️ Embedded Systems & Software Stack
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++11/17](https://img.shields.io/badge/C++11/17-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-2C3E50?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+### Embedded Systems
+![RTOS](https://img.shields.io/badge/RTOS-009688?style=flat&logoColor=white)
+![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat&logo=arm&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-8E44AD?style=flat&logoColor=white)
+![Bootloader](https://img.shields.io/badge/U--Boot-4CAF50?style=flat&logoColor=white)
+
+### Automotive & Communication Protocols
+![CAN](https://img.shields.io/badge/CAN-00599C?style=flat&logoColor=white)
+![LIN](https://img.shields.io/badge/LIN-34495E?style=flat&logoColor=white)
+![UART](https://img.shields.io/badge/UART-16A085?style=flat&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-8E44AD?style=flat&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-D35400?style=flat&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP/HTTPS-2980B9?style=flat&logo=httpie&logoColor=white)
+
+### Linux & Build Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-000000?style=flat&logo=linux&logoColor=white)
+![Yocto](https://img.shields.io/badge/Yocto_Project-5C4EE5?style=flat&logo=yocto&logoColor=white)
+![Buildroot](https://img.shields.io/badge/Buildroot-27AE60?style=flat&logoColor=white)
+![ext4](https://img.shields.io/badge/ext4-2C3E50?style=flat&logo=linux&logoColor=white)
+![NFS](https://img.shields.io/badge/NFS-3498DB?style=flat&logoColor=white)
+![JFFS2](https://img.shields.io/badge/JFFS2-E67E22?style=flat&logoColor=white)
+
+### Software Engineering
+![OOP](https://img.shields.io/badge/OOP-1ABC9C?style=flat&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-9B59B6?style=flat&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-34495E?style=flat&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-2980B9?style=flat&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-E74C3C?style=flat&logoColor=white)
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
 
 ---
 
