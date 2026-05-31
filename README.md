@@ -1,5 +1,5 @@
 <h1 align="center">Mohammed Khalaf Ismail</h1>
-<h3 align="center">AI Solutions Architect · Head of AI & Digital Transformation · Dubai, UAE</h3>
+<h3 align="center">AI Solutions Architect · Machine Learning Engineer · Digital Transformation Specialist Dubai · Dubai, UAE</h3>
 
 <p align="center">
   <a href="https://github.com/mohammedkh97">
